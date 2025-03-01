@@ -6,6 +6,10 @@ Além disso, trabalharemos com GitFlow ao final do curso e Visual Studio Code.
 
 Confira tudo o que temos no nosso Youtube. É grátis! Segue link:
 
+Além do nosso Youtube, fique atento ao nosso site e a nossa agenda para ficar por dentro de tudo que irá acontecer no ano de 2025.
+
+[teomewhy.org] (https://teomewhy.org/schedule) 
+
 [Curso Git 2025](https://youtube.com/@teomewhy)
 
 Além do nosso YouTube, se ligue no nosso site e agenda para ficar por dentro de tudo que vai rolar em 2025.
